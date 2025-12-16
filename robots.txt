@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gics.net/sitemap.xml
